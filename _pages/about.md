@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a third year undergraduate student from [wuhan university](https://whu.edu.cn/)
 
-[Email](zhouzh@whu.edu.cn) / [Github](https://github.com/zhouzh0201)
+[Email](mailto:zhouzh@whu.edu.cn) / [Github](https://github.com/zhouzh0201)
